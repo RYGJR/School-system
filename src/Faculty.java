@@ -1,10 +1,10 @@
 public class Faculty {
 
-    private int id;
-    private char name;
-    private char password;
-    public char email;
-    private int salary;
+     int id;
+     char name;
+     char password;
+     char email;
+     int salary;
 
     public void setId(int id) {
         this.id = id;
@@ -39,8 +39,6 @@ public class Faculty {
     public char getEmail() {
         return email;
     }
-
-
 
     public int getSalary() {return salary;}
 }
