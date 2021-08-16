@@ -1,6 +1,6 @@
 # School-system
 
-Members:
-Rolando Gaddi
-| Lance Manganti
-| James Deniel Paguio
+Members:<br/>
+Rolando Gaddi<br/>
+Lance Manganti<br/>
+James Deniel Paguio
