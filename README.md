@@ -2,5 +2,5 @@
 
 Members:
 Rolando Gaddi
-Lance Manganti
-James Deniel Paguio
+| Lance Manganti
+| James Deniel Paguio
